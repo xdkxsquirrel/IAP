@@ -22,9 +22,9 @@ The purpose of the IAP Automated Testing program is to send a binary embedded pr
 
  1. Connect Komodo Can Solo to your computer and the CAN that is connected to the STM board you want to update.
  2. Change the name of the binary file that will be read onto the CAN from LED.bin to your file name.bin
- ![Where to change the file name](/images/namechange.jpg)
+ ![Where to change the file name](https://github.com/xdkxsquirrel/IAP/blob/master/In_App_Automated_Test/images/namechange.jpg)
  3. Run program
  4. Wait. It will print Done when completed.
 
 ### Program Diagram:
-![Program Diagram](/images/diagram.jpg)
+![Program Diagram](https://github.com/xdkxsquirrel/IAP/blob/master/In_App_Automated_Test/images/diagram.jpg)
