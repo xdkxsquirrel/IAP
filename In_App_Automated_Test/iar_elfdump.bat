@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\bin\ielfdumparm.exe" "D:\src\GEMM\In_App_Programming\EMAT_FW_Infrastructure\EWARM\TDW_FW_infrastructure\Exe\TDW_FW_infrastructure.out" "D:\src\GEMM\In_App_Programming\In_App_Automated_Test\Main.txt" --source --code
